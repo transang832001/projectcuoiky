@@ -1,0 +1,6 @@
+C:\Users\hi\Desktop\OOP\cuoiky\cuoiky\bin\Debug\cuoiky.exe.config
+C:\Users\hi\Desktop\OOP\cuoiky\cuoiky\bin\Debug\cuoiky.exe
+C:\Users\hi\Desktop\OOP\cuoiky\cuoiky\bin\Debug\cuoiky.pdb
+C:\Users\hi\Desktop\OOP\cuoiky\cuoiky\obj\Debug\cuoiky.csprojResolveAssemblyReference.cache
+C:\Users\hi\Desktop\OOP\cuoiky\cuoiky\obj\Debug\cuoiky.exe
+C:\Users\hi\Desktop\OOP\cuoiky\cuoiky\obj\Debug\cuoiky.pdb
